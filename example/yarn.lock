@@ -10319,10 +10319,10 @@ react-error-overlay@^6.0.6:
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-6.0.6.tgz#ac4d9dc4c1b5c536c2c312bf66aa2b09bfa384e2"
   integrity sha512-Yzpno3enVzSrSCnnljmr4b/2KUQSMZaPuqmS26t9k4nW7uwJk6STWmH9heNjPuvqUTO3jOSPkHoKgO4+Dw7uIw==
 
-react-gsap@1.0.16:
-  version "1.0.16"
-  resolved "https://registry.yarnpkg.com/react-gsap/-/react-gsap-1.0.16.tgz#f9214ef04f2cdf3d748d3c78cd635068f0c46767"
-  integrity sha512-aaTNgOfNxsL4iiqbBy7JdhpK7nxv/uw0X8yI8q/kzJbt1whD0D+Ox7pOkOVcCFp8uAl2/s8iqHiyC69GqvhCcw==
+react-gsap@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/react-gsap/-/react-gsap-1.2.0.tgz#38e89b6802c5521fd27677ce27ba6ac119f7348e"
+  integrity sha512-hopmcLuMFcUd8MHVA7gK5VHUeuXnqOJjTADPsEjIGVG1pCP05Uagt1TQri2pG67QOZkEWHwQGT6vwlzXPUbLZQ==
   dependencies:
     gsap "^2.0.2"
 
