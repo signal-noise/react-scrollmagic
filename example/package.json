@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "flow-bin": "^0.81.0",
+    "flow-bin": "^0.211.1",
     "next": "^7.0.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
